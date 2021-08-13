@@ -7,3 +7,6 @@ The first reason is that I want to back up all the paper I read and the slides m
 The second reason is that I hope to help someone else who are interest in this field. 
 
 I will try my best to make my code readable and classify the related Paper of battery conditions into right categories. 
+
+#
+There also contain a GUI for Battery Management System.
