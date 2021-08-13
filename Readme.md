@@ -10,3 +10,5 @@ I will try my best to make my code readable and classify the related Paper of ba
 
 #
 There also contain a GUI for Battery Management System.
+#
+Especially, thanks to my instructors Pro.Ma, Reza and friend Zhuowei.
