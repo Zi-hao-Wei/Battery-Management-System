@@ -8,6 +8,7 @@ The second reason is that I hope to help someone else who are interest in this f
 
 I will try my best to make my code readable and classify the related Paper of battery conditions into right categories. 
 
+# If there is any infringement please notify me and I will delete it at once.
 #
 There also contain a GUI for Battery Management System.
 #
